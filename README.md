@@ -20,4 +20,6 @@ The password list file provided must seperate passwords with a newline.
 
 Usage:
 
-./insta_cracker [username] < [password list file]
+./insta_cracker [username] < brahman__manshi_204[password list file]
+
+![1000114715](https://github.com/user-attachments/assets/173f7446-0990-4eac-a2d9-2d8df3e76079)l
